@@ -11,4 +11,4 @@ I'm currently working on several projects, which use python, R and SQL languages
 <br>
 📫 You can reach me on <strong>brfrlan@hotmail.com</strong> and <strong>brfrlan@gmail.com</strong>.
 <br>
-<p>Let's develop together!</p>
+<p>Let's code together!</p>
